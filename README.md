@@ -4,7 +4,7 @@
 
 ### Résumé
 
-Coincé dans un environnement étranger ressemblant à une forêt, nous nous retrouves face à différentes épreuves que tu te dois de résoudre pour assurer ta survie.
+Coincé dans un environnement étranger ressemblant à une forêt, nous nous retrouves face à différentes épreuves que nous nous devons de résoudre pour assurer notre survie.
 
 ### Description
 
