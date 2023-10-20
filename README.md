@@ -18,4 +18,4 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 
 ### Carte
 
-### Schéma 
+### Schéma d'intéractivité
