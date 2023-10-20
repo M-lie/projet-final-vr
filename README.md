@@ -12,6 +12,8 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 
 ### Moodboard visuel 
 
+![Moodboard visuel de Camélie](medias/moodboard_camelie.jpg)
+
 ### Moodboard sonore
 
 ### Carte
