@@ -15,7 +15,6 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 ![Moodboard visuel de Camélie](medias/moodboard_camelie.jpg)
 
 ### Moodboard sonore
-https://www.youtube.com/watch?v=6JeZR13dLLI (40min) Drone d'ambiance
 
 ### Carte
 
@@ -51,7 +50,7 @@ Plongés dans l'obscurité totale, les joueurs débutent leur aventure dans un m
 https://www.youtube.com/watch?v=DktXmOBHJbM : compagnon
 ![Carte_vincent](medias/moodboard_vincent.jpg)
 ### Moodboard sonore
-
+https://www.youtube.com/watch?v=6JeZR13dLLI (40min) Drone d'ambiance
 ### Carte
 ![Carte_vincent](medias/cartes_vincent2.png)
 ### Schéma de programmation
