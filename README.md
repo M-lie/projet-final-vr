@@ -19,3 +19,33 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 ### Carte
 
 ### Schéma de programmation
+
+
+## Plan de projet de Ghita
+
+### Résumé
+
+### Description
+
+### Moodboard visuel 
+
+### Moodboard sonore
+
+### Carte
+
+### Schéma de programmation
+
+
+## Plan de projet de Vincent
+
+### Résumé
+
+### Description
+
+### Moodboard visuel 
+
+### Moodboard sonore
+
+### Carte
+
+### Schéma de programmation
