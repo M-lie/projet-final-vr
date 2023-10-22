@@ -18,7 +18,7 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 
 ### Carte
 
-![Carte de Camélie](medias/carte_camelie.jpg)
+![Carte de Camélie](medias/carte_camelie.png)
 
 ### Schéma de programmation
 
