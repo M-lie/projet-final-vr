@@ -15,6 +15,7 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 ![Moodboard visuel de Camélie](medias/moodboard_camelie.jpg)
 
 ### Moodboard sonore
+https://www.youtube.com/watch?v=6JeZR13dLLI (40min) Drone d'ambiance
 
 ### Carte
 
