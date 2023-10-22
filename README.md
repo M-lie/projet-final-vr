@@ -42,6 +42,7 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 
 ### Résumé
 
+Coincés à l'intérieur d'un conteneur mystérieux, accompagnés d'un guide surnaturel, nous résolvons des énigmes à chaque étape pour échapper à notre confinement et découvrir la forêt qui nous attend à l'extérieur.
 ### Description
 
 ### Moodboard visuel 
