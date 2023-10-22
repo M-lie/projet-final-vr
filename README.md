@@ -45,7 +45,7 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 Coincés à l'intérieur d'un conteneur mystérieux, accompagnés d'un guide surnaturel, nous résolvons des énigmes à chaque étape pour échapper à notre confinement et découvrir la forêt qui nous attend à l'extérieur.
 ### Description
 
-Plongés dans l'obscurité totale, les joueurs débutent leur aventure dans un monde mystérieux. Une fêlure de lumière provenant du toit attire leur attention, illuminant un miroir au sol. En saisissant ce miroir, ils devront habilement diriger la lumière pour éclairer la pièce, révélant progressivement son environnement. La quête se poursuit alors que la lumière dévoile un coffre caché, libérant un compagnon qui devient leur source de lumière constante, tout en dévoilant les secrets du monde qui les entoure.
+Plongés dans l'obscurité totale, les joueurs débutent leur aventure dans un monde mystérieux. Une fêlure de lumière provenant du toit attire leur attention, illuminant un miroir au sol. En saisissant ce miroir, ils devront habilement diriger la lumière pour éclairer la pièce, révélant progressivement son environnement. La quête se poursuit alors que la lumière dévoile un coffre caché, libérant un compagnon qui devient leur source de lumière constante, tout en dévoilant les secrets du monde qui les entoure. Au fur et à mesure que l'aventure progresse, la mission évolue vers la découverte et l'assemblage des morceaux disséminés pour réparer un vaisseau spatial, fusionner avec le compagnon pour traverser les murs du conteneur, et enfin, s'envoler vers leur planète d'origine une fois le vaisseau restauré.
 ### Moodboard visuel 
 https://www.youtube.com/watch?v=DktXmOBHJbM : blob qui te suit (compagnon de jeux?)
 
