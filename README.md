@@ -52,6 +52,6 @@ https://www.youtube.com/watch?v=DktXmOBHJbM : blob qui te suit (compagnon de jeu
 ### Moodboard sonore
 
 ### Carte
-![Carte_vincent](medias/cartes_vincent.png)
+![Carte_vincent](medias/cartes_vincent2.png)
 ### Schéma de programmation
 ![Schema prog Vicnent](medias/schema_prog_vincent.png)
