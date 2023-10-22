@@ -45,6 +45,7 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 ### Description
 
 ### Moodboard visuel 
+https://www.youtube.com/watch?v=DktXmOBHJbM : blob qui te suit (compagnon de jeux?)
 
 ### Moodboard sonore
 
