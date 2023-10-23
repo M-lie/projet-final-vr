@@ -60,6 +60,8 @@ Notre expérience VR sera un jeu divisé en 3 différents paliers. Le premier pa
 
 ### Carte
 
+![Carte visuelle de Ghita](medias/carte_visuelle__ghita.png)
+
 ### Schéma de programmation
 
 
