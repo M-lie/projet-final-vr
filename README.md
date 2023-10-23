@@ -46,7 +46,7 @@ Notre expérience VR sera un jeu divisé en 3 différents paliers. Le premier pa
 
 ### Moodboard visuel 
 
-![Moodboard visuel de Ghita](medias/moodboard_ghita.jpeg)
+![Moodboard visuel de Ghita](medias/moodboard_ghita.png)
 
 ### Moodboard sonore
 
