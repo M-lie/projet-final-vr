@@ -64,7 +64,7 @@ Notre expérience VR sera un jeu divisé en 3 différents paliers. Le premier pa
 
 ### Schéma de programmation
 
-![Schéma de Ghita](medias/schema_ghita.jpeg)
+![Schéma de Ghita](medias/schema_ghita.jpg)
 
 ## Plan de projet de Vincent
 
