@@ -16,6 +16,10 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 
 ### Moodboard sonore
 
+[Effet sonore n01](https://pixabay.com/fr/sound-effects/)
+
+> Epic Hybrid Logo par Ivan_Luzan
+
 ### Carte
 
 ![Carte de Camélie](medias/carte_camelie.png)
