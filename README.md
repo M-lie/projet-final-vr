@@ -22,6 +22,7 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 
 ### Schéma de programmation
 
+![Schéma de programmation de Camélie](medias/schema_programmation_camelie.png)
 
 ## Plan de projet de Ghita
 
