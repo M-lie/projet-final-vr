@@ -16,9 +16,12 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 
 ### Moodboard sonore
 
-[Effet sonore n01](https://pixabay.com/fr/sound-effects/)
+[Effets sonores](https://pixabay.com/fr/sound-effects/)
 
 > Epic Hybrid Logo par Ivan_Luzan
+> Brain Damage par daub_audio
+> Horror Hit Logo par Alex_Kizenkov
+> Wrong Place par SoundReality
 
 ### Carte
 
