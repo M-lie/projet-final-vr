@@ -50,7 +50,7 @@ Notre expérience VR sera un jeu divisé en 3 différents paliers. Le premier pa
 
 ### Moodboard sonore
 
-> https://www.youtube.com/watch?v=uvYtBlezsoI&ab_channel=TheWizard : Pour la course vers la porte de sortie – Ambiance assez pesante, rythme rapide
+> https://www.youtube.com/watch?v=uvYtBlezsoI&ab_channel=TheWizard : Pour la course vers la porte de sortie – Ambiance assez pesante et rythme rapide
 
 > https://www.youtube.com/watch?v=nkawBVYs49Q&ab_channel=RelaxtronautSounds : Pour le vent de l’ambiance glaciale 
 
