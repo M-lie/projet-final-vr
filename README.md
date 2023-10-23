@@ -38,11 +38,25 @@ Le projet se déroule en trois stades dont chacun mène au prochain. D'abord, no
 
 ### Résumé
 
+Notre expérience VR consistera à se sortir d’une sorte d’Escape Room à la Hunger Games avec les éléments comme tribus.
+
 ### Description
+
+Notre expérience VR sera un jeu divisé en 3 différents paliers. Le premier palier étant que l’utilisateur se retrouve bloqué dans un bunker et ne sait pas du tout où il est. Soudainement, une voix surgit lui expliquant qu’il a un temps limité pour frapper les différentes cibles qui apparaissent devant lui. Plus le temps passe, plus de l’eau montera jusqu’à noyer complètement le joueur s’il échoue. Cependant, si le défi est atteint, le joueur passe au prochain palier : allumer un feu. En effet, dès le passage au deuxième palier, l’utilisateur se voit projeter vers une nouvelle scène qui est glaciale. Ici encore, le joueur aura un temps limité pour ramasser un tel nombre de branches pour faire un feu. Une fois cela fait, le troisième palier est déclenché : le tremblement de terre. Le joueur devra se rendre aussi vite qu’il peut vers la porte de sortie. Une fois les trois paliers finis, le joueur remporte la partie.
 
 ### Moodboard visuel 
 
+![Moodboard](https://github.com/M-lie/projet-final-vr/assets/93718412/fd20fac2-2930-47c4-89e7-a6903f568e18)
+
 ### Moodboard sonore
+
+> https://www.youtube.com/watch?v=uvYtBlezsoI&ab_channel=TheWizard : Pour la course vers la porte de sortie – Ambiance assez pesante, rythme rapide
+
+> https://www.youtube.com/watch?v=nkawBVYs49Q&ab_channel=RelaxtronautSounds : Pour le vent de l’ambiance glaciale 
+
+> https://www.youtube.com/watch?v=u53yNFMMTL8&ab_channel=SoundEffectDatabase : Exemple de bruit pour ramasser les objets 
+
+> https://www.youtube.com/watch?v=xNN7iTA57jM&ab_channel=TheGuildofAmbience : Ambiance forêt
 
 ### Carte
 
