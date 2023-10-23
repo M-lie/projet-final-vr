@@ -42,7 +42,7 @@ Notre expérience VR consistera à se sortir d’une sorte d’Escape Room à la
 
 ### Description
 
-Notre expérience VR sera un jeu divisé en 3 différents paliers. Le premier palier étant que l’utilisateur se retrouve bloqué dans un bunker et ne sait pas du tout où il est. Soudainement, une voix surgit lui expliquant qu’il a un temps limité pour frapper les différentes cibles qui apparaissent devant lui. Plus le temps passe, plus de l’eau montera jusqu’à noyer complètement le joueur s’il échoue. Cependant, si le défi est atteint, le joueur passe au prochain palier : allumer un feu. En effet, dès le passage au deuxième palier, l’utilisateur se voit projeter vers une nouvelle scène qui est glaciale. Ici encore, le joueur aura un temps limité pour ramasser un tel nombre de branches pour faire un feu. Une fois cela fait, le troisième palier est déclenché : le tremblement de terre. Le joueur devra se rendre aussi vite qu’il peut vers la porte de sortie. Une fois les trois paliers finis, le joueur remporte la partie.
+Notre expérience VR sera un jeu divisé en 3 différents paliers. Le premier palier étant que l’utilisateur se retrouve bloqué dans un bunker et ne sait pas du tout où il est. Soudainement, une voix surgit lui expliquant qu’il a un temps limité pour frapper les différentes cibles qui apparaissent devant lui. Plus le temps passe, plus de l’eau montera jusqu’à noyer complètement le joueur s’il échoue. Cependant, si le défi est atteint, le joueur passe au prochain palier : allumer un feu. En effet, dès le passage au deuxième palier, l’utilisateur se voit diriger vers une nouvelle scène qui est glaciale lorsque les portes du bunker s'ouvrent. Ici encore, le joueur aura un temps limité pour ramasser un tel nombre de branches pour faire un feu. Une fois cela fait, le troisième palier est déclenché : le tremblement de terre. Le joueur devra se rendre aussi vite qu’il peut vers la porte de sortie. Une fois les trois paliers finis, le joueur remporte la partie.
 
 ### Moodboard visuel 
 
@@ -64,6 +64,7 @@ Notre expérience VR sera un jeu divisé en 3 différents paliers. Le premier pa
 
 ### Schéma de programmation
 
+![Schéma de Ghita](medias/schema_ghita.jpeg)
 
 ## Plan de projet de Vincent
 
