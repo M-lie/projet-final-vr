@@ -82,6 +82,8 @@ https://www.youtube.com/watch?v=DktXmOBHJbM : compagnon
 https://www.youtube.com/watch?v=6JeZR13dLLI (40min) Drone d'ambiance
 
 https://www.youtube.com/watch?v=fcO5klPyfX4 inspiration de son etnique process electroniquement
+
+https://soundcloud.com/gtvince-1/01_menu?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing ambiance ludique
 ### Carte
 ![Carte_vincent](medias/cartes_vincent2.png)
 ### Schéma de programmation
