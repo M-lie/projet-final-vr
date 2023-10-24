@@ -79,6 +79,7 @@ https://www.youtube.com/watch?v=DktXmOBHJbM : compagnon
 ![Carte_vincent](medias/moodboard_vincent.jpg)
 ### Moodboard sonore
 https://www.youtube.com/watch?v=6JeZR13dLLI (40min) Drone d'ambiance
+
 https://www.youtube.com/watch?v=fcO5klPyfX4 inspiration de son etnique process electroniquement
 ### Carte
 ![Carte_vincent](medias/cartes_vincent2.png)
